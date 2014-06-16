@@ -14,9 +14,11 @@ Chain of Heroes is a combination of an Action RPG (eg: Diablo, Torchlight, etc.)
 
 At this point, I think I've got the major system features in place, but there are a lot little sub features I still plan to implement.  As an example, the foundation around skill gems are in place:  You can collect them, equip them, sell them, etc. But, there are many more kinds of skill gems I want to add to the game. 
 
+**I appreciate any and all feedback. How can I make the game more fun and look better?**
+
 # About Me
 
-I work full time and try to work on this as a hobby project for at least 30 minutes a day.  I've been working on this over a year at this point and it's nice to see it progress day by day.  As you can see, I'm not much of an artist and I haven't added any sound or music yet.  All the assets are placeholder art and you can find the licenses in the HTML source of the game.  **I appreciate any and all feedback. How can I make the game more fun and look better?**
+I work full time and try to work on this as a hobby project for at least 30 minutes a day.  I've been working on this over a year at this point and it's nice to see it progress day by day.  As you can see, I'm not much of an artist and I haven't added any sound or music yet.  All the assets are placeholder art and you can find the licenses in the HTML source of the game.
   
 # TODOs
 
