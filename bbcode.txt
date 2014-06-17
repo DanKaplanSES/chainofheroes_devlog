@@ -1,0 +1,42 @@
+[size=20pt]Chain Of Heroes [Action RPG] [Snake] [Browser Game][/size]
+
+[url=http://chainofheroes.com/]
+[img]https://github.com/tieTYT/chainofheroes_devlog/raw/master/play_in_your_browser.png[/img]
+[/url]
+
+[img]https://github.com/tieTYT/chainofheroes_devlog/raw/master/gameplay.gif[/img]
+
+[img]https://github.com/tieTYT/chainofheroes_devlog/raw/master/tutorial.png[/img]
+
+[url=http://chainofheroes.com/]
+[img]https://github.com/tieTYT/chainofheroes_devlog/raw/master/play_in_your_browser.png[/img]
+[/url]
+
+[size=20pt]About The Game[/size]
+
+Chain of Heroes is a combination of an Action RPG (eg: Diablo, Torchlight, etc.) and Snake (eg: Snake). You pick up gold and items from killing bad guys. Between levels you can equip your items and have the option to increase the size of your team. There are two types of inventory items: Weapons and Skill Gems. The weapons give you a variety of attack types and the skill gems modify your characters in interesting ways.
+
+At this point, I think I've got the major system features in place, but there are a lot little sub features I still plan to implement. As an example, the foundation around skill gems are in place: You can collect them, equip them, sell them, etc. But, there are many more kinds of skill gems I want to add to the game.
+
+[size=12pt][b]I appreciate any and all feedback. How can I make the game more fun?[/b][/size]
+
+[size=20pt]Major TODOs[/size]
+
+[list]
+[li]More skill gems and weapons[/li]
+[li]A World Map ala Super Meat Boy[/li]
+[li]Better graphics[/li]
+[li]Sound and music[/li]
+[li]A concept of elements. That is, bad guys who are weak against fire but strong against ice. Then you'll equip skill gems to change the element of your attacks.[/li]
+[li]More effort on game balance[/li]
+[/list]
+
+[size=20pt]Story[/size]
+
+The graphics give no indication of the game's theme (yet), but here's my idea for the story:
+
+You're serving time in a futuristic prison in space. Without warning, a meteorite smashes into the prison's electric grid, allowing you to raid the armory as you escape. The only catch is you're shackled to a bunch of other people so you have to work as a team to survive on the hostile planet.
+
+[size=20pt]About Me[/size]
+
+I've been working on this game for over a year as a hobby project for at least 30 minutes a day. As you can see, I'm not much of an artist and I haven't added any sound or music yet. I've never finished a game before. This is my second attempt! All the assets are placeholder art and you can find the licenses in the HTML source of the game.
