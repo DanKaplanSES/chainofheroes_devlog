@@ -10,6 +10,13 @@
 
 # About the Game
 
+Chain of Heroes is an Action RPG where you control a team with Snake-like game play.  
+
+Play as a group of jail-breaking prisoners trying to find your way off the planet.
+ 
+
+
+
 Chain of Heroes is a combination of an Action RPG (eg: Diablo, Torchlight, etc.) and Snake (eg: Snake).  You pick up gold and items from killing bad guys.  Between levels you can equip your items and have the option to increase the size of your team.  There are two types of inventory items: Weapons and Skill Gems.  The weapons give you a variety of attack types and the skill gems modify your characters in interesting ways.
 
 At this point, I think I've got the major system features in place, but there are a lot little sub features I still plan to implement.  As an example, the foundation around skill gems are in place:  You can collect them, equip them, sell them, etc. But, there are many more kinds of skill gems I want to add to the game. 
