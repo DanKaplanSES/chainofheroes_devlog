@@ -14,7 +14,7 @@ Combining Snake with Action RPG elements, Chain of Heroes is unlike any game you
 
 Play as a group of jail-breaking prisoners trying to find your way off a hostile planet.
 
-Narrowly interweave your heroes between enemy hordes to attack but be careful not to run into them or crash into a wall!
+Narrowly interweave your heroes between enemy hordes to attack but be careful not to run into them, yourselves or crash into a wall!
 
 
 Move close to enemies to automatically attack them but be careful not to run into them, your own teammates or a wall.
