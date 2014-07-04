@@ -36,3 +36,9 @@ You're serving time in a futuristic prison in space.  Without warning, a meteori
 # About Me
 
 I've been working on this game for over a year as a hobby project for at least 30 minutes a day. As you can see, I'm not much of an artist and I haven't added any sound or music yet.  I've never finished a game before.  This is my second attempt! All the assets are placeholder art and you can find the licenses in the HTML source of the game.
+
+# Resources
+
+- [Developer Log](http://forums.tigsource.com/index.php?topic=41345.0)
+- [Play Testing](http://forums.tigsource.com/index.php?topic=41589.0)
+- [Official Issue Tracker](https://bitbucket.org/tieTYT/chain-of-heroes/issues?status=new&status=open&sort=-priority)
